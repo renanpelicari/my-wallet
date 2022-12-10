@@ -12,7 +12,7 @@
   "dependencies": {
     "babel-preset-es2017-node7": "^0.5.2",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongoose": "^5.2.9",
     "morgan": "^1.9.0",
     "node-restful": "^0.2.6",
